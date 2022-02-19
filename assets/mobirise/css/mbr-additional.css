@@ -770,6 +770,117 @@ a {
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
+.cid-RiVuvhi4zj {
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: #ffffff;
+}
+.cid-RiVuvhi4zj .carousel {
+  width: 100%;
+}
+.cid-RiVuvhi4zj .carousel-inner {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+.cid-RiVuvhi4zj .carousel-item img {
+  height: 100vh;
+  object-fit: cover;
+}
+.cid-RiVuvhi4zj .carousel-caption {
+  bottom: 20px;
+}
+.cid-RiVuvhi4zj .mobi-mbri-arrow-next {
+  margin-left: 5px;
+}
+.cid-RiVuvhi4zj .mobi-mbri-arrow-prev {
+  margin-right: 5px;
+}
+.cid-RiVuvhi4zj .carousel-control:hover {
+  background: #1b1b1b;
+  color: #fff;
+  opacity: 1;
+}
+.cid-RiVuvhi4zj .item-wrapper {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-RiVuvhi4zj .container .carousel-control {
+    margin-bottom: 0;
+  }
+  .cid-RiVuvhi4zj .content-slider-wrap {
+    width: 100% !important;
+  }
+}
+.cid-RiVuvhi4zj .container .carousel-indicators {
+  margin-bottom: 3px;
+}
+.cid-RiVuvhi4zj .carousel-control {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+.cid-RiVuvhi4zj .carousel-control.carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-RiVuvhi4zj .carousel-control.carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-RiVuvhi4zj .carousel-control {
+    top: auto;
+    bottom: 1rem;
+  }
+}
+.cid-RiVuvhi4zj .carousel-indicators {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 1.5rem !important;
+}
+.cid-RiVuvhi4zj .carousel-indicators li {
+  max-width: 15px;
+  height: 15px;
+  width: 15px;
+  max-height: 15px;
+  margin: 3px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  opacity: 0.5;
+  transition: all 0.3s;
+}
+.cid-RiVuvhi4zj .carousel-indicators li.active,
+.cid-RiVuvhi4zj .carousel-indicators li:hover {
+  opacity: 0.9;
+}
+.cid-RiVuvhi4zj .carousel-indicators li::after,
+.cid-RiVuvhi4zj .carousel-indicators li::before {
+  content: none;
+}
+.cid-RiVuvhi4zj .carousel-indicators.ie-fix {
+  left: 50%;
+  display: block;
+  width: 60%;
+  margin-left: -30%;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .cid-RiVuvhi4zj .carousel-indicators {
+    display: none !important;
+  }
+}
+.cid-RiVuvhi4zj H5 {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-f2o8ol26Mt {
   padding-top: 15px;
   padding-bottom: 0px;
